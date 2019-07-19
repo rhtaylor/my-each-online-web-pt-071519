@@ -4,5 +4,5 @@ def my_each(arra) # put argument(s) here
       yield(arra[i])
       i +=1
     end
-
+    arra
 end
